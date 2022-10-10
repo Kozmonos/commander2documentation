@@ -1,0 +1,6 @@
+test.js
+dist
+node_modules
+package-lock.json
+demo.json
+test-workspace
