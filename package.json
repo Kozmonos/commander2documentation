@@ -6,6 +6,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "files": [
+    "app",
+    "index.js",
+    "README.md",
+    "package.json",
+    "templates"
+  ],
   "dependencies": {
     "circular-json": "^0.5.9",
     "fs-extra": "^10.1.0",
