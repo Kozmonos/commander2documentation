@@ -1,6 +1,7 @@
 {
   "name": "@kozmonos/commander2documentation",
   "version": "0.1.0",
+  "private": false,
   "description": "This package is a plugin for CommanderJS that generates documentation for your commands.",
   "main": "index.js",
   "keywords": ["commander", "documentation", "cli","commanderjs"],
