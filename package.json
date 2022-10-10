@@ -6,7 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "files": [
+  "file": [
     "app",
     "index.js",
     "README.md",
